@@ -651,6 +651,7 @@ section {
   padding: 70px 20px 80px 20px;
   transition: all ease-in-out 0.3s;
   /* background: #fff; */
+  width: 100%;
 }
 
 .services .icon-box .icon {
@@ -2607,7 +2608,7 @@ so that the elements will be centered at all times*/
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgb(37 103 178);
+  background-color: #cda45e;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
   content: '';
   opacity: 0.5;
